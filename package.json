@@ -1,0 +1,9 @@
+{
+  "name": "@ng/prettier-config-ng",
+  "version": "1.0.0",
+  "description": "NG prettier config",
+  "main": ".prettierrc.js",
+  "repository": "https://github.com/Nico-Guyon/prettier-config-ng",
+  "author": "Nicolas GUYON",
+  "license": "ISC"
+}
